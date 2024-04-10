@@ -1,0 +1,1 @@
+Using Python, I built a quiz game where we ask the users a bunch of questions and it is up the users if they answer the question correctly or incorrectly. At the end of the quiz game there will be a score given out on how many questions the user has scored.
